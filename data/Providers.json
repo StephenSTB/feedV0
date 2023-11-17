@@ -1,0 +1,17 @@
+{
+    "Polygon": {
+        "url": "wss://rpc-mainnet.maticvigil.com/ws/v1/857bd788405149815e9bed09e4e0ef2b41777537",
+        "network_id": 137,
+        "asset": "Matic"
+    },
+    "Mumbai": {
+        "url": "wss://rpc-mumbai.maticvigil.com/ws/v1/857bd788405149815e9bed09e4e0ef2b41777537",
+        "network_id": 80001,
+        "asset": "Matic"
+    },
+    "Ganache": {
+        "url": "ws://172.20.89.195:8545",
+        "network_id": 1337,
+        "asset": "Ether"
+    }
+}

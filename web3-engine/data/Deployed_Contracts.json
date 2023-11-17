@@ -1,0 +1,11 @@
+{
+    "Ganache": {
+        "UserRegister": "0x3eD40B492cebC99EC59ad787e4e24b4cB2AAed84",
+        "Messages": "0xCF465cC12B2787c4da4D0b5aaa58faabb716126F",
+        "Feed": "0xe9883DC590F7C18e8B9fed605A201A6c89f82298",
+        "FeedViewer": "0x3145CC1E24c30Dc5fCA4376D036EED924D722D0b"
+    },
+    "Polygon": {},
+    "Mumbai": {},
+    "Optimism": {}
+}

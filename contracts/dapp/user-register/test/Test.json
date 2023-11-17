@@ -1,0 +1,15 @@
+
+{
+    "registerUser":
+    {
+        "Normal Register":{
+            "args": ["RandomSB", "Web3 Dapp Creator.", "ipfs://QmcLZTfyPJxvmGQUKqpiMtVa2qTmPS2MvEPm4gyTkm6mrZ", "0x0000000000000000000000000000000000000000", 0]
+        },
+        "Invalid fee value given.":{},
+        "User is already registered, Use updateRegister function to change info.": {},
+        "Name is invalid length.": {},
+        "Bio is too long.": {},
+        "Url is too long.": {},
+        "You are not the owner of the avatar.": {}
+    }
+}
